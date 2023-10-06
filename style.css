@@ -1,0 +1,11 @@
+.main-img{
+    text-align: center;
+    background-image: url("bgimg.jpeg");
+    background-size:cover;
+}
+div{
+    margin:20px;
+}
+h1{
+    text-decoration: underline;
+}
